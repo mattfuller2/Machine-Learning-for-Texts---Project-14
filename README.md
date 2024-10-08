@@ -16,3 +16,7 @@ This project focuses on building a model to classify movie reviews as either pos
 1. Clone the repository:
    ```bash
    git clone https://github.com/mattfuller2/Machine-Learning-for-Texts---Project-14
+2. Install the required dependencies
+   pip install -r requirements.txt
+3. Launch Jupyter Notebook
+   jupyter notebook
